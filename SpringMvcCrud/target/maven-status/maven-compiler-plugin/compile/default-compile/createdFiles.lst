@@ -1,0 +1,6 @@
+com\app\dao\StudDaoImpl.class
+com\app\controller\StudController.class
+com\app\model\Student.class
+com\app\service\StudService.class
+com\app\dao\StudDao.class
+com\app\service\StudServiceImpl.class
